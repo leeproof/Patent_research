@@ -202,4 +202,4 @@ widgetsnbextension @ file:///C:/b/abs_derxhz1biv/croot/widgetsnbextension_170127
 win-inet-pton @ file:///C:/ci_310/win_inet_pton_1642658466512/work
 wordcloud @ file:///C:/b/abs_66ccn47hik/croot/wordcloud_1687301655958/work
 zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
-matplotlib==3.9.0
+matplotlib
